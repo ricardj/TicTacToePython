@@ -5,6 +5,7 @@
 <br>
 In game footage
 </p>
+
 ---
 <p align="center">
   <img  src="./img/gameplay.png">
